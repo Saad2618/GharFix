@@ -1,0 +1,13 @@
+# GharFix — robots.txt
+# https://gharfix.pk/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://gharfix.pk/sitemap.xml
+
+# Disallow admin or backend paths (add these when you have a CMS/backend)
+# Disallow: /admin/
+# Disallow: /api/
+# Disallow: /dashboard/
